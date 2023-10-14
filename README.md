@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/LeonidasEng/Securico">
-    <img src="https://github.com/LeonidasEng/Securico/images/Securico-Logo.png" alt="Logo">
+    <img src="https://github.com/LeonidasEng/Securico/tree/main/images/Securico-Logo.png" alt="Logo">
   </a>
 
 <h3 align="center">Securico</h3>
@@ -24,7 +24,7 @@
 ## About The Project
 In this project, I designed a security door system that could be installed in an office. It had a number of different sensors which could display to the user whether the door would grant access or not. It included a motion detector that used recursion to reset the timer to prevent the door closing if an object/person was in the way. If you would like to interact with the project please view the simulation via the Wokwi link above.
 
- <img src="https://github.com/LeonidasEng/Securico/images/Securico-Door-Diagram.png" alt="Door Diagram">
+ <img src="https://github.com/LeonidasEng/Securico/tree/main/images/Securico-Door-Diagram.png" alt="Door Diagram">
 
 ### Built With
 * Arduino
@@ -35,7 +35,7 @@ In this project, I designed a security door system that could be installed in an
 
 <!-- PHYSICAL CIRCUIT -->
 ## Physical Circuit
- <img src="https://github.com/LeonidasEng/Securico/images/Securico-Physical-Circuit.png" alt="Physical Circuit">
+ <img src="https://github.com/LeonidasEng/Securico/tree/main/images/Securico-Physical-Circuit.png" alt="Physical Circuit">
 
 <!-- ROADMAP -->
 ## Roadmap
